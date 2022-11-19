@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 106
+  controlID: 104
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 361
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -361,9 +361,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 39}
-    m_SelectedIDs: 5e670000
-    m_LastClickedID: 26462
-    m_ExpandedIDs: 000000005e670000706700007867000000ca9a3bffffff7f
+    m_SelectedIDs: f4630000
+    m_LastClickedID: 25588
+    m_ExpandedIDs: 00000000f463000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -391,7 +391,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005e670000
+    m_ExpandedIDs: 00000000f4630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,20 +422,20 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c623000022af0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: marker_image
+      m_OriginalName: marker_image
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 25378
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 4}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -443,7 +443,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 114}
+    m_ScrollPosition: {x: 0, y: 128}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 320
@@ -521,20 +521,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 22630000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d0e2feff1ee3feff66e5feff80e5feff4afcfeff98fcfeffb4fefeffcefefeff5410ffffa010ffffbc12ffffd612ffffe217ffff3018ffff4c1affff661affff5825ffffa425ffffc027ffffda27ffffe62cffff342dffff502fffff6a2fffffb037fffffe37ffff1a3affff343affff1a41ffff6641ffff8243ffff9c43ffffa848fffff648ffff124bffff2c4bffff305dffff7e5dffff9a5fffffb45fffffbe71ffff0c72ffff2874ffff4274ffff4079ffff8e79ffffaa7bffffc47bffffb29cffff489effff10adffff5cadffff78afffff92afffff10b5ffff5eb5ffff7ab7ffff94b7ffff96c2ffffe4c2ffff2cc5ffff46c5ffff2cfbffff266e0000
+      m_ExpandedIDs: 2a7dffff787dffff947fffffae7fffff1286ffff6086ffff7c88ffff9688ffffbc8effff0a8fffff2691ffff4091ffff0898ffff5698ffff729affff8c9affff72a0ffffc0a0ffffdca2fffff6a2ffff06abffff54abffff70adffff8cadffffceb4ffff1cb5ffff38b7ffff52b7ffff26bdffff74bdffff90bfffffaabfffff48c8ffff94c8ffffb6caffffd6caffff38d1ffff84d1ffffa6d3ffffc6d3ffff4adbffff98dbffffe0ddfffffaddffff2cfbffffd4620000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Quad
-        m_OriginalName: Quad
+        m_Name: AR Session Origin
+        m_OriginalName: AR Session Origin
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 33032
+        m_UserData: 28670
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -806,9 +806,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 403.70285, y: 701.4385, z: 67.69044}
+    m_Target: {x: 0.5011813, y: -0.06363186, z: 0.050932407}
     speed: 2
-    m_Value: {x: 403.70285, y: 701.4385, z: 67.69044}
+    m_Value: {x: 0, y: 0.23820037, z: -0.17499998}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -854,13 +854,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.042083357, y: 0.010491025, z: -0.00044291714, w: -0.99906695}
+    m_Target: {x: -0.12858304, y: -0.049068235, z: 0.0063699246, w: -0.99047405}
     speed: 2
-    m_Value: {x: 0.050823893, y: 0.85345685, z: -0.5117017, w: 0.08479253}
+    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 878.654
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 774.1445
+    m_Value: 0.5740254
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -882,7 +882,7 @@ MonoBehaviour:
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
-  m_SceneVisActive: 1
+  m_SceneVisActive: 0
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 --- !u!114 &17
